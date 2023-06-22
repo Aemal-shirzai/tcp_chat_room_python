@@ -1,2 +1,2 @@
-# tcp_chat_room_python
+# Chat Room
 TCP Chat Room in Python
